@@ -9,3 +9,12 @@ To make life easier for myself, I'm going to simply read in images I've already 
 <img src="images/BaselineReader/Huff_text.png" width="250"> <img src="images/BaselineReader/NZero_text.png" width="250"> <img src="images/BaselineReader/SandyFarm_text.png" width="250">
 
 <img src="images/BaselineReader/TempleBruerMalbeck_text.png" width="250"> <img src="images/BaselineReader/TempleBruerPinot_text.png" width="250"> <img src="images/BaselineReader/TempleBruerShiraz_text.png" width="250">
+
+Okay, so some inital thoughts on the images above:
+
+- It does a decent job on the simple black writing on a white background
+ - This is in line with it's ability to read text from, say, a book
+- It doesn't do well with gold on black writing
+- It doesn't do well on 'fancy' writing
+ - It completely fails on properly stylised writing (e.g. the Sandy Farm main header)
+- It fails completely to read curved writing
