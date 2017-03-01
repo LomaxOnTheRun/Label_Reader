@@ -14,7 +14,7 @@ To make life easier for myself, I'm going to simply read in images I've already 
 
 <img src="images/BaselineReader/LeSabbie.png" width="250"> <img src="images/BaselineReader/NaturalSauvignon.png" width="250"> <img src="images/BaselineReader/NaturalShiraz.png" width="250">
 
-<img src="images/BaselineReader/OlsenWinesPinot.png" width="250"> <img src="images/BaselineReader/OlsenWinesMerlot.png" width="250"> <img src="images/BaselineReader/PigInTheHouse.png" width="250">
+<img src="images/BaselineReader/OlsenWinesPinot.png" width="250"> <img src="images/BaselineReader/OlsenWinesMerlot.png" width="250"> <img src="images/BaselineReader/PigInTheHouse1.png" width="250">
 
 Okay, so some inital thoughts on the images above:
 
@@ -25,3 +25,4 @@ Okay, so some inital thoughts on the images above:
 - It doesn't do well on 'fancy' (i.e. cursive) writing
  - It completely fails on properly stylised writing (e.g. the Sandy Farm main header)
 - It fails completely to read curved writing (e.g. the top Temple Bruer header)
+- It doesn't do well when there is a slight gradient in the background (e.g. a shadow gradient)
