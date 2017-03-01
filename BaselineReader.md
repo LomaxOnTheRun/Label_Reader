@@ -10,6 +10,12 @@ To make life easier for myself, I'm going to simply read in images I've already 
 
 <img src="images/BaselineReader/TempleBruerMalbeck_text.png" width="250"> <img src="images/BaselineReader/TempleBruerPinot_text.png" width="250"> <img src="images/BaselineReader/TempleBruerShiraz_text.png" width="250">
 
+<img src="images/BaselineReader/Giesen.png" width="250"> <img src="images/BaselineReader/JJ.png" width="250"> <img src="images/BaselineReader/JE.png" width="250">
+
+<img src="images/BaselineReader/LeSabbie.png" width="250"> <img src="images/BaselineReader/NaturalSauvignon.png" width="250"> <img src="images/BaselineReader/NaturalShiraz.png" width="250">
+
+<img src="images/BaselineReader/OlsenWinesPinot.png" width="250"> <img src="images/BaselineReader/OlsenWinesMerlot.png" width="250"> <img src="images/BaselineReader/PigInTheHouse.png" width="250">
+
 Okay, so some inital thoughts on the images above:
 
 - It does a decent job on the simple black writing on a white background
