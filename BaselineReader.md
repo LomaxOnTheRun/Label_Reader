@@ -14,7 +14,8 @@ Okay, so some inital thoughts on the images above:
 
 - It does a decent job on the simple black writing on a white background
  - This is in line with it's ability to read text from, say, a book
+- It does a decent job or reading white writing on a blackbackground 
 - It doesn't do well with gold on black writing
-- It doesn't do well on 'fancy' writing
+- It doesn't do well on 'fancy' (i.e. cursive) writing
  - It completely fails on properly stylised writing (e.g. the Sandy Farm main header)
-- It fails completely to read curved writing
+- It fails completely to read curved writing (e.g. the top Temple Bruer header)
