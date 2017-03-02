@@ -24,6 +24,7 @@ I've had some previous experience trying to do this using the Mobile Vision libr
 I've had some initial thoughs on things to try:
 
 - Look into whether Google's text reader is tweakable (using existing methods)
+ - **UPDATE:** I can't find anything online that suggests that Google offers any 'tweaking' for their TextReader
 - Look at techniques for making the background less complicated to read from
 - Look at 'flattening out' the labels using image manipulation libraries
 - Look into other OCR libraries, although I'd like not have to resort to this as Google's stuff is particularly easy to plug in to Android applications)
