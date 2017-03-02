@@ -6,4 +6,12 @@ So my first try at improving the text rader, was to simply find all of the text 
 
 As it turns out, Google's text reader actually performed better when given the whole picture, rather than cropped images of individual words / phrases. I've put some examples below:
 
-**EXAMPLES**
+<img src="images/Reader1/DarlingChardonnay.png" width="250"> <img src="images/Reader1/DarlingPinot.png" width="250"> <img src="images/Reader1/Huff.png" width="250">
+
+<img src="images/Reader1/NaturalSauvignon.png" width="250"> <img src="images/Reader1/One.png" width="250"> <img src="images/Reader1/SandyFarm.png" width="250">
+
+<img src="images/Reader1/TempleBruerPinot.png" width="250"> <img src="images/Reader1/TB621.png" width="250">
+
+The writing below the images are the writing that TextReader first reads, before the image is cropped. The red (or white) writing on the images show the new writing TextReader puls out of the images. A number of times, it doesn't even recognise that here is text in the cropped images.
+
+This looks like a nope.
